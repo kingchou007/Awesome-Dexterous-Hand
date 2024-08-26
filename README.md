@@ -9,7 +9,6 @@ To include your papers, please submit a new issue with the titles and necessary 
 ## Learning From Video
 
 * **[CoRL 2022]** Shaw, K., Bahl, S., & Pathak, D. (2023, March). **Videodex: Learning dexterity from internet videos.** - [arxiv](https://arxiv.org/abs/2212.04498), [website](https://video-dex.github.io)
-* 
 
 ## Sim2Real
 
