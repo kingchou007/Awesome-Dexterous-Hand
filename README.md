@@ -32,5 +32,4 @@ To include your papers, please submit a new issue or pull request with the title
 
 ## Cool Idea
 
-* Romero, B., Fang, H. S., Agrawal, P., & Adelson, E. (2024). Eyesight hand: Design of a fully-actuated dexterous robot hand with integrated vision-based tactile sensors and compliant actuation. - [arXiv](https://arxiv.org/abs/2410.06440)
 * [CoRL 2023] Zakka, K., Wu, P., Smith, L., Gileadi, N., Howell, T., Peng, X. B., ... & Abbeel, P. (2023). Robopianist: Dexterous piano playing with deep reinforcement learning.  *-* [arXiv](https://arxiv.org/abs/2304.04150), [code](https://kzakka.com/robopianist/), [wesite](https://github.com/google-research/robopianist)
