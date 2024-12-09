@@ -1,4 +1,4 @@
-# Awesome-Dexterous-Hand [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+# Awesome-Dexterous-Manipulation [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 To include your papers, please submit a new issue or pull request with the titles and necessary details. Thank you.
 
@@ -19,6 +19,7 @@ To include your papers, please submit a new issue or pull request with the title
 ## Learning From Video
 
 * [CoRL 2022] Shaw, K., Bahl, S., & Pathak, D. (2023, March). Videodex: Learning dexterity from internet videos. - [arXiv](https://arxiv.org/abs/2212.04498), [website](https://video-dex.github.io)
+* Kareer, S., Patel, D., Punamiya, R., Mathur, P., Cheng, S., Wang, C., ... & Xu, D. (2024). Egomimic: Scaling imitation learning via egocentric video. - [arXiv](https://arxiv.org/abs/2410.24221), [website](https://egomimic.github.io/)
 
 ## Sim2Real
 
