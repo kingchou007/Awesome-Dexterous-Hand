@@ -20,7 +20,7 @@ To include your papers, please submit a new issue or pull request with the title
 
 * [CoRL 2022] Shaw, K., Bahl, S., & Pathak, D. (2023, March). Videodex: Learning dexterity from internet videos. - [arXiv](https://arxiv.org/abs/2212.04498), [website](https://video-dex.github.io)
 
-## Simulation
+## Sim2Real
 
 * [RSS 2023] Huang, B., Chen, Y., Wang, T., Qin, Y., Yang, Y., Atanasov, N., & Wang, X. (2023). Dynamic handover: Throw and catch with bimanual hands. - [arXiv](https://arxiv.org/pdf/2309.05655), [website](https://binghao-huang.github.io/dynamic_handover/)
 * [IROS 2023] Orbit: A Unified Simulation Framework for Interactive Robot Learning Environments - [arXiv](https://arxiv.org/abs/2301.04195), [website](https://isaac-orbit.github.io/)
@@ -29,3 +29,8 @@ To include your papers, please submit a new issue or pull request with the title
 
 * Romero, B., Fang, H. S., Agrawal, P., & Adelson, E. (2024). Eyesight hand: Design of a fully-actuated dexterous robot hand with integrated vision-based tactile sensors and compliant actuation. - [arXiv](https://arxiv.org/abs/2410.06440)
 * [RSS 2023] Shaw, K., Agarwal, A., & Pathak, D. (2023). Leap hand: Low-cost, efficient, and anthropomorphic hand for robot learning. - [arXiv](https://arxiv.org/abs/2309.06440)
+
+## Cool Idea
+
+* Romero, B., Fang, H. S., Agrawal, P., & Adelson, E. (2024). Eyesight hand: Design of a fully-actuated dexterous robot hand with integrated vision-based tactile sensors and compliant actuation. - [arXiv](https://arxiv.org/abs/2410.06440)
+* [CoRL 2023] Zakka, K., Wu, P., Smith, L., Gileadi, N., Howell, T., Peng, X. B., ... & Abbeel, P. (2023). Robopianist: Dexterous piano playing with deep reinforcement learning.  *-* [arXiv](https://arxiv.org/abs/2304.04150), [code](https://kzakka.com/robopianist/), [wesite](https://github.com/google-research/robopianist)
