@@ -32,4 +32,4 @@ To include your papers, please submit a new issue or pull request with the title
 
 ## Cool Idea
 
-* [CoRL 2023] Zakka, K., Wu, P., Smith, L., Gileadi, N., Howell, T., Peng, X. B., ... & Abbeel, P. (2023). Robopianist: Dexterous piano playing with deep reinforcement learning.  *-* [arXiv](https://arxiv.org/abs/2304.04150), [code](https://kzakka.com/robopianist/), [wesite](https://github.com/google-research/robopianist)
+* [CoRL 2023] Zakka, K., Wu, P., Smith, L., Gileadi, N., Howell, T., Peng, X. B., ... & Abbeel, P. (2023). Robopianist: Dexterous piano playing with deep reinforcement learning.  *-* [arXiv](https://arxiv.org/abs/2304.04150), [code](https://kzakka.com/robopianist/), [website](https://github.com/google-research/robopianist)
