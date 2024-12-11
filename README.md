@@ -31,6 +31,10 @@ To include your papers, please submit a new issue or pull request with the title
 * Romero, B., Fang, H. S., Agrawal, P., & Adelson, E. (2024). Eyesight hand: Design of a fully-actuated dexterous robot hand with integrated vision-based tactile sensors and compliant actuation. - [arXiv](https://arxiv.org/abs/2410.06440)
 * [RSS 2023] Shaw, K., Agarwal, A., & Pathak, D. (2023). Leap hand: Low-cost, efficient, and anthropomorphic hand for robot learning. - [arXiv](https://arxiv.org/abs/2309.06440)
 
+## Tactile
+
+- [RAL] Q. Wu, H. Wang, J. Zhou, X. Xiong and Y. Lou. (2025) "TARS: Tactile Affordance in Robot Synesthesia for Dexterous Manipulation" - [paper](https://ieeexplore.ieee.org/abstract/document/10766612)
+
 ## Cool Idea
 
 * [CoRL 2023] Zakka, K., Wu, P., Smith, L., Gileadi, N., Howell, T., Peng, X. B., ... & Abbeel, P. (2023). Robopianist: Dexterous piano playing with deep reinforcement learning.  *-* [arXiv](https://arxiv.org/abs/2304.04150), [code](https://kzakka.com/robopianist/), [website](https://github.com/google-research/robopianist)
